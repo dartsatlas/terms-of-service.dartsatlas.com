@@ -1,9 +1,9 @@
-# DARTS ATLAS LLC WEBSITE TERMS OF USE
+# THE DARTS ATLAS CORPORATION WEBSITE TERMS OF USE
 
 Last Modified: October 25, 2021
 
 ## Acceptance of the Terms of Use
-These terms of use are entered into by and between you and Darts Atlas LLC (“Company,” “we,” or “us”). The following terms and conditions, together with any documents they expressly incorporate by reference (collectively, “Terms of Use”), govern your access to and use of https://www.dartsatlas.com, including any content, functionality, and services offered on or through https://www.dartsatlas.com (the “Website”), whether as a guest or a registered user.
+These terms of use are entered into by and between you and The Darts Atlas Corporation (“Company,” “we,” or “us”). The following terms and conditions, together with any documents they expressly incorporate by reference (collectively, “Terms of Use”), govern your access to and use of https://www.dartsatlas.com, including any content, functionality, and services offered on or through https://www.dartsatlas.com (the “Website”), whether as a guest or a registered user.
 
 Please read the Terms of Use carefully before you start to use the Website. By using the Website or by clicking to accept or agree to the Terms of Use when this option is made available to you, you accept and agree to be bound and abide by these Terms of Use and our Privacy Policy, incorporated herein by reference. If you do not want to agree to these Terms of Use or the Privacy Policy, you must not access or use the Website.
 
@@ -211,10 +211,10 @@ If any provision of these Terms of Use is held by a court or other tribunal of c
 
 ## Entire Agreement
 
-These Terms of Use, our Privacy Policy, and Terms of Sale constitute the sole and entire agreement between you and Darts Atlas LLC regarding the Website and supersede all prior and contemporaneous understandings, agreements, representations, and warranties, both written and oral, regarding the Website. 
+These Terms of Use, our Privacy Policy, and Terms of Sale constitute the sole and entire agreement between you and The Darts Atlas Corporation regarding the Website and supersede all prior and contemporaneous understandings, agreements, representations, and warranties, both written and oral, regarding the Website. 
 
 ## Your Comments and Concerns
 
-This website is operated by Darts Atlas LLC 2204 Santa Rita Street, Austin, Texas 78702.
+This website is operated by The Darts Atlas Corporation 2204 Santa Rita Street, Austin, Texas 78702.
 All notices of copyright infringement claims should be sent to the copyright agent designated in our Copyright Policy in the manner and by the means set out in these Terms of Use.
 All other feedback, comments, requests for technical support, and other communications relating to the Website should be directed to: hello@dartsatlas.com.
